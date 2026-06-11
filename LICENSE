@@ -1,0 +1,15 @@
+Copyright (c) 2026 Wiserfunding Ltd. All rights reserved.
+
+This repository contains the source of the "Iris" agent, submitted to the
+Google for Startups AI Agents Challenge for the sole purpose of evaluation
+and testing by the contest Sponsor (Google LLC), the Administrator (Devpost,
+Inc.), and the contest Judges during the judging period.
+
+No license is granted to any other party. You may not copy, reproduce,
+distribute, modify, create derivative works of, or use this code, in whole or
+in part, for any purpose without the prior written permission of Wiserfunding
+Ltd.
+
+The Wiserfunding risk models, scoring methodology, data, and platform APIs that
+this agent connects to are proprietary to Wiserfunding Ltd and are NOT included
+in this repository.
